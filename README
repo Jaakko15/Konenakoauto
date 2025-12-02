@@ -11,3 +11,6 @@ VIDEO_IN   = r"C:\Users\Pelikone\Documents\csvCarNew\jamsadashcam.mp4"
 VIDEO_OUT  = r"C:\Users\Pelikone\Documents\csvCarNew\jamsadashcamout.mp4"
 
 osa kuvista ja filuista poistettu, jotta mahtuu puskea gittiin
+
+
+RUN PY ON "RUNS" KANSIOSSA
