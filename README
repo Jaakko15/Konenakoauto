@@ -1,0 +1,13 @@
+Malli ajetaan RunPy tiedoston kautta.
+VIDEO_IN on videon lähde
+VIDEO_OUT minne video tallentuu
+MODEL_PATH käytettävä malli
+
+TRAIN CUSTOM PY tiedostolla voidaan kehittää mallia, muun muassa isommalla datasetillä. Tiedosto antaa valita hyperparameterit koulutusta varten.
+
+
+MODEL_PATH = r"C:\Users\Pelikone\Documents\csvCarNew\runs\detect\finetune_bigset3\weights\best.pt"
+VIDEO_IN   = r"C:\Users\Pelikone\Documents\csvCarNew\jamsadashcam.mp4"
+VIDEO_OUT  = r"C:\Users\Pelikone\Documents\csvCarNew\jamsadashcamout.mp4"
+
+osa kuvista ja filuista poistettu, jotta mahtuu puskea gittiin

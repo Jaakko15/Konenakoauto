@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "csvCarNew",
+			"path": "."
+		},
+		{
+			"name": "Self-driving.v1-x3.yolov8",
+			"path": "../../Downloads/Self-driving.v1-x3.yolov8"
+		}
+	],
+	"settings": {}
+}

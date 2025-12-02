@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 11
+names: ['biker', 'car', 'pedestrian', 'trafficLight', 'trafficLight-Green', 'trafficLight-GreenLeft', 'trafficLight-Red', 'trafficLight-RedLeft', 'trafficLight-Yellow', 'trafficLight-YellowLeft', 'truck']
+
+roboflow:
+  workspace: fst
+  project: self-driving-sortn
+  version: 3
+  license: MIT
+  url: https://universe.roboflow.com/fst/self-driving-sortn/dataset/3
